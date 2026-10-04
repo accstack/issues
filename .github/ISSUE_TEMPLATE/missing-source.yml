@@ -3,6 +3,9 @@ description: A published description of a language's stress or tone that is not 
 title: "[language name]: missing source"
 labels: [bibliography]
 body:
+  - type: markdown
+    attributes:
+      value: "**Issues are public.** Please do not attach scans of published works here. Quote the sentence or two that matter and give the page, or email the pages to sources@accstack.org."
   - type: input
     id: language
     attributes: {label: Language and Glottocode}

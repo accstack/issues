@@ -5,6 +5,9 @@ labels: [catalog]
 body:
   - type: markdown
     attributes:
+      value: "**Issues are public.** Please do not attach scans of published works here. Quote the sentence or two that matter and give the page, or email the pages to sources@accstack.org."
+  - type: markdown
+    attributes:
       value: "Corrections must be attested in a published source. One language per issue."
   - type: input
     id: language
